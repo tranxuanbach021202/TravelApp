@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="edInputText">
+        <item name="android:textSize">16sp</item>
+        <item name="background">@drawable/stroke_radius_8px</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button.Blue" parent="Base.TextAppearance.AppCompat.Button">
+        <item name="colorAccent">@color/primary_400</item>
+    </style>
+    <style name="TextDisplay">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">0.44dp</item>
+    </style>
+    <style name="TextHeadingH1">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">0.40dp</item>
+    </style>
+    <style name="TextHeadingH2">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">0.36dp</item>
+    </style>
+    <style name="TextHeadingH3">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">0.32dp</item>
+    </style>
+    <style name="TextHeadingH4">
+        <item name="android:textSize">22sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">0.30dp</item>
+    </style>
+    <style name="TextHeadingH5">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">0.28dp</item>
+    </style>
+    <style name="TextHeadingH6">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+         <item name="android:lineSpacingExtra">0.28dp</item>
+    </style>
+    <style name="TextLaybel">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:lineSpacingExtra">0.14dp</item>
+    </style>
+
+</resources>

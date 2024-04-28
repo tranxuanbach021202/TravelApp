@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0D8BFF</color>
+    <color name="gray_50">#F6F7F9</color>
+    <color name="gray_100">#F3F4F6</color>
+    <color name="gray_200">#E5E7EB</color>
+    <color name="gray_300">#D1D5DB</color>
+    <color name="gray_400">#9CA3AF</color>
+    <color name="gray_500">#6B7280</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="gray_700">#374151</color>
+    <color name="gray_800">#1F2937</color>
+    <color name="gray_900">#111827</color>
+    <color name="primary_base">#187A85</color>
+    <color name="primary_50">#B1E8EF</color>
+    <color name="primary_100">#80D8E4</color>
+    <color name="primary_200">#31BDD0</color>
+    <color name="primary_300">#1DA3B6</color>
+    <color name="primary_400">#1A8E9D</color>
+    <color name="secondary_base">#FF9141</color>
+    <color name="secondary_50">#FFF6A6</color>
+    <color name="secondary_100">#FFF183</color>
+    <color name="secondary_200">#FFE751</color>
+    <color name="secondary_300">#FFCE55</color>
+    <color name="secondary_400">#FFB74E</color>
+    <color name="alerts_error_light">#FF708A</color>
+    <color name="alerts_error_dark">#E64462</color>
+    <color name="alerts_error_base">#FF4C6D</color>
+    <color name="alerts_warning_light">#FFDE65</color>
+    <color name="alerts_warning_dark">#E6BB20</color>
+    <color name="alerts_warning_base">#FFD023</color>
+    <color name="alerts_success_light">#55C790</color>
+    <color name="alerts_success_dark">#0BA259</color>
+    <color name="alerts_success_base">#0CAF60</color>
+    <color name="others_black">#000000</color>
+    <color name="others_white">#FFFFFF</color>
+    <color name="white_transparent_15">#26FFFFFF</color>
+    <color name="white_transparent_20">#33FFFFFF</color>
+
+
+
+</resources>
